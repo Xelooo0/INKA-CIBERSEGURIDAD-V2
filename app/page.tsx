@@ -18,7 +18,7 @@ interface Vulnerability {
   tipo: string;
   nivelRiesgo: string;
   fechaDeteccion: string;
-  descripcionTecnica: string;
+  descripcionTecnica: string-1;
   posiblesSoluciones: string;
   iconos: { gravedad: string; categoria: string; };
   recomendacionesMitigacion: string;
